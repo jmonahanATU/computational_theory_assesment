@@ -94,3 +94,22 @@ Through these tasks, I learned about:
 - Different ways to solve the same problem
 - How to measure how efficient algorithms are
 - Basic concepts in cryptography and computing theory
+- 
+
+## References
+
+- NIST FIPS 180-4 Specification. For SHA-256 padding details in Task 3.
+- Atwood, E. (2019). "Prime Number Generation: Comparing Algorithms" for the Sieve of Eratosthenes implementation.
+
+- Stack Overflow. ["Generating Permutations using Python's Itertools."](https://stackoverflow.com/a/104436)
+- Stack Overflow. ["Appending bits to the start of a binary number."](https://stackoverflow.com/a/51678298)
+- Python Documentation. ["ord() function reference."](https://docs.python.org/3.4/library/functions.html?highlight=ord#ord)
+- Stack Overflow. ["Open file with encoding."](https://stackoverflow.com/a/49375134)
+- GeeksforGeeks. ["Splitting an array into even-sized chunks."](https://www.geeksforgeeks.org/break-list-chunks-size-n-python/)
+- CP-Algorithms. ["Sieve of Eratosthenes."](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+- W3Schools. ["Bubble Sort Algorithm Explanation."](https://www.w3schools.com/dsa/dsa_algo_bubblesort.php)
+- GeeksforGeeks. ["Sieve of Atkin for Prime Generation."](https://www.geeksforgeeks.org/sieve-of-atkin/)
+- Back, A. (2002). *"HashCash - A Denial of Service Counter-Measure."* [PDF](http://www.hashcash.org/hashcash.pdf)
+- W3Schools. ["Bubble Sort Time Complexity Analysis."](https://www.w3schools.com/dsa/dsa_timecomplexity_bblsort.php)
+
+
