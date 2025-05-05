@@ -21,7 +21,7 @@ I wrote code that works with bits (0s and 1s):
 I showed how each one works with examples.
 
 ### Task 2: Hash Functions
-I took a hash function from a C programming book and made it work in Python.
+I took a hash function from the C programming example and made it work in Python.
 
 ```python
 def hash_string(s):
